@@ -1,7 +1,7 @@
 from colorama import Fore
 
-API_HASH = ""
-API_ID = 1234567
+API_HASH = "a478d96485b6e40cda94bfadc8f95073"
+API_ID = 23700049
 
 BANNER = Fore.MAGENTA + f"""
     __ __              __                 __     __         
